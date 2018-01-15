@@ -1,0 +1,13 @@
+C:\coding\cherwell\geolayout\GeoLayout.WebAPI\bin\Debug\netcoreapp2.0\GeoLayout.WebAPI.deps.json
+C:\coding\cherwell\geolayout\GeoLayout.WebAPI\bin\Debug\netcoreapp2.0\GeoLayout.WebAPI.runtimeconfig.json
+C:\coding\cherwell\geolayout\GeoLayout.WebAPI\bin\Debug\netcoreapp2.0\GeoLayout.WebAPI.runtimeconfig.dev.json
+C:\coding\cherwell\geolayout\GeoLayout.WebAPI\bin\Debug\netcoreapp2.0\GeoLayout.WebAPI.dll
+C:\coding\cherwell\geolayout\GeoLayout.WebAPI\bin\Debug\netcoreapp2.0\GeoLayout.WebAPI.pdb
+C:\coding\cherwell\geolayout\GeoLayout.WebAPI\obj\Debug\netcoreapp2.0\GeoLayout.WebAPI.csproj.CoreCompileInputs.cache
+C:\coding\cherwell\geolayout\GeoLayout.WebAPI\obj\Debug\netcoreapp2.0\GeoLayout.WebAPI.AssemblyInfoInputs.cache
+C:\coding\cherwell\geolayout\GeoLayout.WebAPI\obj\Debug\netcoreapp2.0\GeoLayout.WebAPI.AssemblyInfo.cs
+C:\coding\cherwell\geolayout\GeoLayout.WebAPI\obj\Debug\netcoreapp2.0\GeoLayout.WebAPI.dll
+C:\coding\cherwell\geolayout\GeoLayout.WebAPI\obj\Debug\netcoreapp2.0\GeoLayout.WebAPI.pdb
+C:\coding\Cherwell\GeoLayout\GeoLayout.WebApi\bin\Debug\netcoreapp2.0\GeoLayout.BL.dll
+C:\coding\Cherwell\GeoLayout\GeoLayout.WebApi\bin\Debug\netcoreapp2.0\GeoLayout.BL.pdb
+C:\Coding\Cherwell\GeoLayout\GeoLayout.WebAPI\obj\Debug\netcoreapp2.0\GeoLayout.WebAPI.csprojResolveAssemblyReference.cache
