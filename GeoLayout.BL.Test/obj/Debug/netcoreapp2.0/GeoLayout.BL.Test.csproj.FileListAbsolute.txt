@@ -1,0 +1,16 @@
+C:\Coding\Cherwell\GeoLayout\GeoLayout.BL.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Coding\Cherwell\GeoLayout\GeoLayout.BL.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Coding\Cherwell\GeoLayout\GeoLayout.BL.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Coding\Cherwell\GeoLayout\GeoLayout.BL.Test\bin\Debug\netcoreapp2.0\GeoLayout.BL.Test.deps.json
+C:\Coding\Cherwell\GeoLayout\GeoLayout.BL.Test\bin\Debug\netcoreapp2.0\GeoLayout.BL.Test.runtimeconfig.json
+C:\Coding\Cherwell\GeoLayout\GeoLayout.BL.Test\bin\Debug\netcoreapp2.0\GeoLayout.BL.Test.runtimeconfig.dev.json
+C:\Coding\Cherwell\GeoLayout\GeoLayout.BL.Test\bin\Debug\netcoreapp2.0\GeoLayout.BL.Test.dll
+C:\Coding\Cherwell\GeoLayout\GeoLayout.BL.Test\bin\Debug\netcoreapp2.0\GeoLayout.BL.Test.pdb
+C:\Coding\Cherwell\GeoLayout\GeoLayout.BL.Test\bin\Debug\netcoreapp2.0\GeoLayout.BL.dll
+C:\Coding\Cherwell\GeoLayout\GeoLayout.BL.Test\bin\Debug\netcoreapp2.0\GeoLayout.BL.pdb
+C:\Coding\Cherwell\GeoLayout\GeoLayout.BL.Test\obj\Debug\netcoreapp2.0\GeoLayout.BL.Test.csprojResolveAssemblyReference.cache
+C:\Coding\Cherwell\GeoLayout\GeoLayout.BL.Test\obj\Debug\netcoreapp2.0\GeoLayout.BL.Test.csproj.CoreCompileInputs.cache
+C:\Coding\Cherwell\GeoLayout\GeoLayout.BL.Test\obj\Debug\netcoreapp2.0\GeoLayout.BL.Test.AssemblyInfoInputs.cache
+C:\Coding\Cherwell\GeoLayout\GeoLayout.BL.Test\obj\Debug\netcoreapp2.0\GeoLayout.BL.Test.AssemblyInfo.cs
+C:\Coding\Cherwell\GeoLayout\GeoLayout.BL.Test\obj\Debug\netcoreapp2.0\GeoLayout.BL.Test.dll
+C:\Coding\Cherwell\GeoLayout\GeoLayout.BL.Test\obj\Debug\netcoreapp2.0\GeoLayout.BL.Test.pdb
