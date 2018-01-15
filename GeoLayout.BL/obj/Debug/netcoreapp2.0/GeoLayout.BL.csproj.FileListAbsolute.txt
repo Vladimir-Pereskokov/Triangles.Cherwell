@@ -1,0 +1,9 @@
+C:\Coding\Cherwell\GeoLayout\GeoLayout.BL\bin\Debug\netcoreapp2.0\GeoLayout.BL.deps.json
+C:\Coding\Cherwell\GeoLayout\GeoLayout.BL\bin\Debug\netcoreapp2.0\GeoLayout.BL.dll
+C:\Coding\Cherwell\GeoLayout\GeoLayout.BL\bin\Debug\netcoreapp2.0\GeoLayout.BL.pdb
+C:\Coding\Cherwell\GeoLayout\GeoLayout.BL\obj\Debug\netcoreapp2.0\GeoLayout.BL.csproj.CoreCompileInputs.cache
+C:\Coding\Cherwell\GeoLayout\GeoLayout.BL\obj\Debug\netcoreapp2.0\GeoLayout.BL.AssemblyInfoInputs.cache
+C:\Coding\Cherwell\GeoLayout\GeoLayout.BL\obj\Debug\netcoreapp2.0\GeoLayout.BL.AssemblyInfo.cs
+C:\Coding\Cherwell\GeoLayout\GeoLayout.BL\obj\Debug\netcoreapp2.0\GeoLayout.BL.dll
+C:\Coding\Cherwell\GeoLayout\GeoLayout.BL\obj\Debug\netcoreapp2.0\GeoLayout.BL.pdb
+C:\Coding\Cherwell\GeoLayout\GeoLayout.BL\obj\Debug\netcoreapp2.0\GeoLayout.BL.csprojResolveAssemblyReference.cache
